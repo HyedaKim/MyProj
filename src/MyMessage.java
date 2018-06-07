@@ -1,6 +1,7 @@
 public class MyMessage {
 	String message;
 	int a;
+	int b;
 	public MyMessage(String message) {
 		this.message = message;
 	}
