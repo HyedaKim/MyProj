@@ -1,5 +1,6 @@
 public class MyMessage {
 	String message;
+	int a;
 	public MyMessage(String message) {
 		this.message = message;
 	}
